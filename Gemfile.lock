@@ -44,7 +44,7 @@ GEM
     rspec-support (3.7.0)
     ruby-rc4 (0.1.5)
     ttfunk (1.5.1)
-    wkhtmltopdf-binary (0.12.4)
+    wkhtmltopdf-binary (0.12.6.5)
 
 PLATFORMS
   ruby
